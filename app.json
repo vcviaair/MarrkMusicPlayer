@@ -3,7 +3,7 @@
     "logo": "https://te.legra.ph/file/3a92989eb1193bb53c27f.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/marrk85/MarrkMusicPlayer",
+    "repository": "https://github.com/vcviaair/MarrkMusicPlayer",
     "stack": "container",
     "env": {
         "API_ID": {
